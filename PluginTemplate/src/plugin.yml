@@ -1,0 +1,6 @@
+main: pl.h00p03.plugintemplate.Main
+name: PluginTemplate
+version: 1.0
+author: h00p03
+description: The Minecraft Java Plugin Template
+api-version: 1.16
